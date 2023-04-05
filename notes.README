@@ -1,0 +1,27 @@
+About Genetic Algorithms
+
+Fitness
+- characteristics that are favourable
+- it's not always as binary as 'bad' and 'good', there can be a grey area
+Crossover/Breeding
+- take features from parents and generate a child; dominant vs recessive genes
+- trying to take the best parents to create the best child
+Mutation 
+- added mutation can have good or bad effects
+
+
+https://medium.com/generative-design/evolving-design-b0941a17b759
+
+
+
+Evolving  a string
+- find our target
+- create a random population of strings (n= 500)
+- accces our fitness (how do our chracters match)
+- create a mating pool that passes on desirable traits
+- randomly crossbreed the mating pool, maybe add mutations
+* last three points are known as making a generation*
+
+How to crossbreed the streets
+- good parents don't necessarily mean you will get good children, generations will fix this though
+- 
